@@ -54,3 +54,8 @@ Matrixify · Judge.me · GoAffPro · JSON · Webhook Architecture
 End-to-end AI system design for a real business — not a tutorial project.
 Covers prompt engineering, workflow automation, CRM integration, data 
 architecture, and human-in-the-loop escalation design.
+
+## About
+I'm a restaurant server turned AI builder transitioning into remote AI 
+operations work. I built this entire stack myself with no engineering 
+background. This repository documents what's actually running on a live store.
